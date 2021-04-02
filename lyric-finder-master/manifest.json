@@ -1,0 +1,23 @@
+{
+  "name": "Lyric Finder",
+  "short_name": "Lyrics",
+  "icons": [
+    {
+      "src": "app-images/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "app-images/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://asktami.github.io/lyric-finder-api-capstone/",
+  "background_color": "#000",
+  "theme_color": "#000",
+  "display": "standalone",
+  "scope": "/",
+  "default_locale": "en",
+  "description": "Find song lyrics using Musixmatch and Napster APIs"
+}
